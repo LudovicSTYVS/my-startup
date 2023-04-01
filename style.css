@@ -49,6 +49,9 @@ button:hover{
 	.card-white{
 		width:400px;
 	}
+	#first-div{
+		height:50px;
+	}
 }
 
 @media(max-width: 430px){
@@ -57,5 +60,8 @@ button:hover{
 	}
 	.card-white{
 		width:300px;
+	}
+		#first-div{
+		height:50px;
 	}
 }
