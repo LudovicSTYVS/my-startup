@@ -38,6 +38,7 @@ button{
     color:white;
     transition: 0.3s ease;
 }
+
 button:hover{
     background-color: #08A045;
 }
@@ -45,10 +46,16 @@ button:hover{
 	.container{
 		width: 430px
 	}
+	.card-white{
+		width:400px;
+	}
 }
 
 @media(max-width: 430px){
 	.container{
 		width: 350px
+	}
+	.card-white{
+		width:300px;
 	}
 }
