@@ -10,6 +10,7 @@ body{
     margin:40px auto;
     display:flex;
 	justify-align:center;
+	flex-direction:column;
 	
 }
 
